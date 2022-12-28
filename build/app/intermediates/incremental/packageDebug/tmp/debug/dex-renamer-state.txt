@@ -1,0 +1,4 @@
+#Wed Dec 28 13:23:59 CET 2022
+base.0=/home/mouhameden/Desktop/project/forqan/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
